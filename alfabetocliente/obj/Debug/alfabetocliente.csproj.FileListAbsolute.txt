@@ -1,0 +1,60 @@
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.exe.config
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.exe
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.dll.config
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.xml
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csprojAssemblyReference.cache
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csproj.CoreCompileInputs.cache
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csproj.CopyComplete
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.exe
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.exe.config
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.exe
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.pdb
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\DemoData.dll
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.dll
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\DemoData.pdb
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\DemoData.dll.config
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.xml
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.AssemblyReference.cache
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.CopyComplete
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.exe
+C:\Users\edgar\Downloads\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.exe.config
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.exe
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\alfabetocliente.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\DemoData.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\DemoData.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\DemoData.dll.config
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.xml
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.csproj.CopyComplete
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.exe
+C:\Users\edgar\Documents\Proyectos .Net\examen1.1-main\alfabetocliente\obj\Debug\alfabetocliente.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\alfabetocliente.exe.config
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\alfabetocliente.exe
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\alfabetocliente.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\DemoData.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\EntityFramework.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\DemoData.pdb
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\DemoData.dll.config
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\EntityFramework.xml
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\obj\Debug\alfabetocliente.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\obj\Debug\alfabetocliente.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\obj\Debug\alfabetocliente.csproj.CopyComplete
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\obj\Debug\alfabetocliente.exe
+C:\Users\edgar\Documents\Proyectos .Net\examen\alfabetocliente\obj\Debug\alfabetocliente.pdb

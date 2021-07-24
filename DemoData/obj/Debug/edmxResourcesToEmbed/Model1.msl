@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ADNModelStoreContainer" CdmEntityContainer="ADNEntities">
+    <EntitySetMapping Name="TaAlfabeto">
+      <EntityTypeMapping TypeName="ADNModel.TaAlfabeto">
+        <MappingFragment StoreEntitySet="TaAlfabeto">
+          <ScalarProperty Name="fiIdKey" ColumnName="fiIdKey" />
+          <ScalarProperty Name="fcValue" ColumnName="fcValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

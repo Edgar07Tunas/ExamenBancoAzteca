@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ADNModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TaAlfabeto">
+    <Key>
+      <PropertyRef Name="fiIdKey" />
+    </Key>
+    <Property Name="fiIdKey" Type="Int32" Nullable="false" />
+    <Property Name="fcValue" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="ADNEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TaAlfabeto" EntityType="Self.TaAlfabeto" />
+  </EntityContainer>
+</Schema>
